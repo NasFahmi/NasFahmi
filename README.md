@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter,  Laravel, Node JS, <br>🎯 Goals: To build innovative applications that solve real-world problems and contribute to open-source projects.<br>📫 Let’s connect! You can reach me at 75nasrulfahmi@gmail.con or follow me on @nasfahmi.dev</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter,  Laravel, Node JS, <br>🎯 Goals: To build innovative applications that solve real-world problems and contribute to open-source projects.<br>📫 Let’s connect! You can reach me at 75nasrulfahmi@gmail.con or follow me on @nasfahmi.dev</p>
 
 ###
 
