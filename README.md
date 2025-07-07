@@ -19,16 +19,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 20px; margin-right: 8px;" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 20px; margin-right: 8px;" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 20px; margin-right: 8px;" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 20px; margin-right: 8px;" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 20px; margin-right: 8px;" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 20px; margin-right: 8px;" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="height: 20px; margin-right: 8px;" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height: 20px; margin-right: 8px;" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 20px; margin-right: 8px;" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 20px; margin-right: 8px;" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; margin-right: 8px;" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; margin-right: 8px;" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px; margin-right: 8px;" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 40px; margin-right: 8px;" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; margin-right: 8px;" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 40px; margin-right: 8px;" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="height: 40px; margin-right: 8px;" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height: 40px; margin-right: 8px;" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px; margin-right: 8px;" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 40px; margin-right: 8px;" alt="mysql logo" />
 </div>
 
 
