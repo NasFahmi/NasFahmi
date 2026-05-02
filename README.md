@@ -38,5 +38,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NasFahmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Github Streak
+## 🔥 Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=NasFahmi&theme=dark)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasFahmi&show_icons=true&theme=radical)
